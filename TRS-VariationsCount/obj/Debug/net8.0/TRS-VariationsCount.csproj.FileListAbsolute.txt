@@ -1,0 +1,17 @@
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\bin\Debug\net8.0\TRS-VariationsCount.exe
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\bin\Debug\net8.0\TRS-VariationsCount.deps.json
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\bin\Debug\net8.0\TRS-VariationsCount.runtimeconfig.json
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\bin\Debug\net8.0\TRS-VariationsCount.dll
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\bin\Debug\net8.0\TRS-VariationsCount.pdb
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.csproj.AssemblyReference.cache
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.AssemblyInfoInputs.cache
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.AssemblyInfo.cs
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.csproj.CoreCompileInputs.cache
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.csproj.CopyComplete
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.dll
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\refint\TRS-VariationsCount.dll
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.pdb
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\TRS-VariationsCount.genruntimeconfig.cache
+C:\Users\mikota\iCloudDrive\TRS\VariationsCount\TRS-VariationsCount\TRS-VariationsCount\obj\Debug\net8.0\ref\TRS-VariationsCount.dll
